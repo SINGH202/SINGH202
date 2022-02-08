@@ -1,20 +1,18 @@
 
-##   Hi 👋, I'm Anurag Singh
-![Github stats](https://github-readme-stats.vercel.app/api?username=singh202)
-<br>
+ <h1 align="center">
+     Hi 👋, I'm Anurag Singh
+</h1>
+<h2>About me!</h2>
 
-<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singh202&repo=NewsApplication) -->
-<!--
-**SINGH202/SINGH202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>One who likes to code and live in the world of web development</p>
+<p>I enjoy developing websites and web applications with a specialization in MERN stack. In My free time I love to play Badmintion,video games and learning about new technologies.</p>
+<ul>
+  <li>🔭 I’m currently working on my existing as well as new projects.</li>
+  <li>🌱 I’m currently learning full-stack web-development</li>
+  <li>👯 I’m looking to collaborate on interesting projects</li>
+  <li>💬 Ask me about react, express.</li>
+  <li>⚡ Fun fact: </li><li>📫 How to reach me: <a href="https://www.linkedin.com/in/anurag-singh-9b1723204">LinkedIn</a></li>
+</ul>
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh202)](https://github.com/singh202/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
