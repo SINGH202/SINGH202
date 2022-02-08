@@ -3,7 +3,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=singh202)
 <br>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singh202&repo=NewsApplication)
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singh202&repo=NewsApplication) -->
 <!--
 **SINGH202/SINGH202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
