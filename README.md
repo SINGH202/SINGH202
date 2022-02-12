@@ -11,7 +11,7 @@
   <li>🌱 I’m currently learning full-stack web-development</li>
   <li>👯 I’m looking to collaborate on interesting projects</li>
   <li>💬 Ask me about react, express.</li>
-  <li>⚡ Portfolio: <a href="https://nostalgic-euler-4ffd85.netlify.app">View</a></li>
+  <li>⚡ Portfolio: <a href="https://anurag-singh-portfolio.netlify.app/">View</a></li>
  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/anurag-singh-9b1723204">LinkedIn</a></li>
 </ul>
 
