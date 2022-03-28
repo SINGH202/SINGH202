@@ -4,6 +4,8 @@
 </h1>
 <h2>About me!</h2>
 
+![](https://komarev.com/ghpvc/?username=singh202)
+
 <p>One who likes to code and live in the world of web development</p>
 <p>I enjoy developing websites and web applications with a specialization in MERN stack. In My free time I love to play Volleyball, video games and learning about new technologies.</p>
 <ul>
