@@ -17,7 +17,7 @@
  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/anurag-singh-9b1723204">LinkedIn</a></li>
 </ul>
 
-<div>
+<div >
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh202&show_icons=true&theme=tokyonight&text_color=#1e6eea)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singh202&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
