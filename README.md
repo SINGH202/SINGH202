@@ -17,8 +17,10 @@
  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/anurag-singh-9b1723204">LinkedIn</a></li>
 </ul>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh202)](https://github.com/singh202/github-readme-stats) -->
-
+<div>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh202&show_icons=true&theme=tokyonight&text_color=#1e6eea)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh202&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singh202&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh202&layout=compact&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats) 
