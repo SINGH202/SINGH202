@@ -10,7 +10,7 @@
 <p>I enjoy developing websites and web applications with a specialization in MERN stack. In My free time I love to play Volleyball, video games and learning about new technologies.</p>
 <ul>
   <li>🔭 I’m currently working on my existing as well as new projects.</li>
-  <li>🌱 I’m currently learning full-stack web-development</li>
+  <li>🌱 I’m currently working on full-stack web applications</li>
   <li>👯 I’m looking to collaborate on interesting projects</li>
   <li>💬 Ask me about typescript, react, next.js, flutter, dart, express.</li>
   <li>⚡ Portfolio: <a href="https://anurag-singh-portfolio.netlify.app/">View</a></li>
