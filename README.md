@@ -17,18 +17,18 @@
  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/anurag-singh-9b1723204">LinkedIn</a></li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh202&layout=compact&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats) 
 
 <table cellpadding="0">
  <tr style="padding: 0">
   <td>
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh202&show_icons=true&theme=tokyonight&text_color=#1e6eea)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singh202&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   </td>
   <td>
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singh202&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh202&show_icons=true&theme=tokyonight&text_color=#1e6eea)
   </td>
  </tr>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh202&layout=compact&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats) 
